@@ -1,9 +1,9 @@
 <?php
-/*
+/**
 Plugin Name: Dokan WC Vendors Migrator
 Plugin URI: http://wedevs.com/
 Description: Migrate WC Vendors Data to Dokan
-Version: 0.1
+Version: 1.0.0
 Author: weDevs
 Author URI: http://wedevs.com/
 License: GPL2
