@@ -29,7 +29,13 @@ class Dokan_WCV_Ajax_Handler {
         $migrator = new Dokan_WCV_Migrator_Kit( $type, $limit, 0 );
 
         $total_items = $total_items ? $total_items : $migrator->get_total();
-
+        
+        if ( 0 == $total_items ) {
+            wp_send_json_success( array(
+                'done'    => 'All',
+                'message' => __( 'No item was found to migrate.', 'dokan-wcv' ),
+            ) );
+        }
         $processed = $migrator->migrate();
 
         $done = $done + $processed;

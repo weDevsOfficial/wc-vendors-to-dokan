@@ -3,7 +3,7 @@ Contributors: tareq1988, wedevs
 Tags: Dokan, Dokan Multi Vendor, marketplace, multi seller, multi store, multi vendor, multistore, multivendor, multivendors, seller, vendor, vendor shop, vendor system, vendors, wc market, wc marketplace, wc multivendor, wc vendors, woocommerce marketplace, woocommerce multi vendor, WooCommerce multivendor, woocommerce product vendors, WooCommerce vendors
 Donate link: https://tareq.co/donate/
 Requires at least: 4.7
-Tested up to: 4.7.2
+Tested up to: 4.7.3
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
