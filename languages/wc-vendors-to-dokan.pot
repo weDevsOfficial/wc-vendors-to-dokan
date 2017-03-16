@@ -1,0 +1,88 @@
+# Copyright (C) 2017 weDevs
+# This file is distributed under the GPL2.
+msgid ""
+msgstr ""
+"Project-Id-Version: Dokan WC Vendors Migrator 1.0.0\n"
+"Report-Msgid-Bugs-To: http://wedevs.com/support/\n"
+"POT-Creation-Date: 2017-03-16 02:17:20+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"X-Generator: grunt-wp-i18n1.0.0\n"
+
+#: dokan-wcv-migrator.php:109
+msgid "WC Vendors 2 Dokan Migrator"
+msgstr ""
+
+#: dokan-wcv-migrator.php:215
+msgid "WC Vendors 2 Dokan Data Migrator"
+msgstr ""
+
+#: dokan-wcv-migrator.php:216
+msgid ""
+"This tool will migrate your <strong>WC Vendors</strong> data to "
+"<strong>Dokan</strong>."
+msgstr ""
+
+#: dokan-wcv-migrator.php:222
+msgid "Type"
+msgstr ""
+
+#: dokan-wcv-migrator.php:225
+msgid "Vendor"
+msgstr ""
+
+#: dokan-wcv-migrator.php:226
+msgid "Order"
+msgstr ""
+
+#: dokan-wcv-migrator.php:228
+msgid "Select a specific type to migrate."
+msgstr ""
+
+#: dokan-wcv-migrator.php:232
+msgid "Limit"
+msgstr ""
+
+#: dokan-wcv-migrator.php:235
+msgid "Amount of items to migrate per request."
+msgstr ""
+
+#: dokan-wcv-migrator.php:248
+msgid "Migrate"
+msgstr ""
+
+#: includes/class-ajax.php:21
+msgid "Error: Nonce verification failed"
+msgstr ""
+
+#: includes/class-ajax.php:36
+msgid "No item was found to migrate."
+msgstr ""
+
+#: includes/class-ajax.php:47
+msgid "%d items has been migrated out of %d"
+msgstr ""
+
+#: includes/class-ajax.php:52
+msgid "All items has been migrated."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Dokan WC Vendors Migrator"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://wedevs.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Migrate WC Vendors Data to Dokan"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "weDevs"
+msgstr ""
